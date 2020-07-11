@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm interested in :
+- competitive programming
+- CTF
+- Natural Language Processing
+
 <!--
 **Vegctrp/Vegctrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
